@@ -1,0 +1,13 @@
+train: C:\Users\basti\PycharmProjects\residuosv5\Data\train\
+val: C:\Users\basti\PycharmProjects\residuosv5\Data\valid\
+test: C:\Users\basti\PycharmProjects\residuosv5\Data\test\
+
+nc: 1
+names: ['Trash plastic']
+
+roboflow:
+  workspace: university-e8im3
+  project: instance-segmentation-trash-plastic
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/university-e8im3/instance-segmentation-trash-plastic/dataset/1
