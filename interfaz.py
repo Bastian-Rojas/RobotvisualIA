@@ -20,7 +20,7 @@ while True:
     anotaciones = resultados[0].plot()
 
     # Mostramos nuestros fotogramas
-    cv2.imshow("DETECCION Y SEGMENTACION", anotaciones)
+    cv2.imshow("Vision", anotaciones)
 
     # Cerrar nuestro programa
     if cv2.waitKey(1) == 27:
