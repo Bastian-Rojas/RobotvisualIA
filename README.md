@@ -32,3 +32,7 @@ El proyecto puede ser extendido para:
 - Recolección automatizada de residuos en áreas específicas.
 - Implementación en sistemas de limpieza inteligentes.
 - Aprendizaje práctico de IoT, visión artificial y control de hardware.
+
+### Integrantes
+Bastián Rojas
+Cristian Soto
