@@ -34,5 +34,5 @@ El proyecto puede ser extendido para:
 - Aprendizaje práctico de IoT, visión artificial y control de hardware.
 
 ### Integrantes
-Bastián Rojas
-Cristian Soto
+- Bastián Rojas
+- Cristian Soto
